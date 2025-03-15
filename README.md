@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yaoikat&color=blue&style=plastic&abbreviated=false&label=☆"
+ <img src="https://komarev.com/ghpvc/?username=yaoikat&color=blue&style=plastic&label=☆"
 </p>
  <p align="center">
 matching profiles with @cxstiiel!!

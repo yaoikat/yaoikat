@@ -2,7 +2,7 @@
  <img src="https://komarev.com/ghpvc/?username=yaoikat&color=blue&style=plastic&label=☆"
 </p>
  <p align="center">
-matching profiles with @cxstiiel!!
+matching profiles with @benstiel !!
   </p>
 
   <p align="center">

@@ -2,14 +2,13 @@
  <img src="https://komarev.com/ghpvc/?username=yaoikat&color=blue&style=plastic&label=☆"
 </p>
  <p align="center">
-matching profiles with @benstiel !!
   </p>
 
   <p align="center">
-ʚ all art by @dooanuh on tumblr ɞ
+ʚ all art by @gomi--neko on tumblr ɞ
    
 <p align="center">
-  <img src="https://i.postimg.cc/KvsqfZ5X/castiel.png" width="400">
+  <img src="https://i.postimg.cc/ZRdWV42N/saw2004.png" width="400">
 </p>
 
 <p align="center">

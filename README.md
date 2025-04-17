@@ -15,7 +15,7 @@
 ʚ c⊹h always ɞ
 
 <p align="center">
-‹ https://straw.page/draw?bio=willbite 𝟥
+‹ willbite.straw.page 𝟥
 
 <p align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true">

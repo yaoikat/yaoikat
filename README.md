@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-ʚ all art by @gomi--neko on tumblr ɞ
+ʚ coolest will graham kinnie trust me !! ɞ
    
 <p align="center">
   <img src="https://i.postimg.cc/cHyLf1sP/willpup.jpg" width="500">

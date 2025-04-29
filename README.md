@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-ʚ coolest will graham kinnie trust me !! ɞ
+ʚ search moo's fan club on pinterest ɞ
    
 <p align="center">
   <img src="https://i.postimg.cc/cHyLf1sP/willpup.jpg" width="500">

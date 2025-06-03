@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-ʚ search moo's fan club on google pls ɞ
+ʚɞ
    
 <p align="center">
   <img src="https://i.postimg.cc/cHyLf1sP/willpup.jpg" width="500">

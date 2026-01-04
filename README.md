@@ -8,7 +8,7 @@
 ʚɞ
    
 <p align="center">
-  <img src="https://i.pinimg.com/736x/87/7c/41/877c4141263f4f262c49c3284307c758.jpg" width="500">
+  <img src="https://64.media.tumblr.com/4d46849f769af8e40bff3481b9457f74/e8104c252dd1b216-79/s500x750/684e9fdfe1b4c5314081df82302ae658fdd6033c.gifv" width="500">
 </p>
 
 <p align="center">

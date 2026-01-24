@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yaoikat&color=blue&style=plastic&label=🌠"
+ <img src="https://komarev.com/ghpvc/?username=yaoikat&color=yellow&style=plastic&label=🐾"
 </p>
  <p align="center">
   </p>
@@ -8,7 +8,7 @@
 ʚɞ
    
 <p align="center">
-  <img src="https://64.media.tumblr.com/4d46849f769af8e40bff3481b9457f74/e8104c252dd1b216-79/s500x750/684e9fdfe1b4c5314081df82302ae658fdd6033c.gifv" width="500">
+  <img src="https://i.postimg.cc/cJv2cJqw/e8e2805194b6db8a4a096cec5afd3c24.jpg" width="500">
 </p>
 
 <p align="center">

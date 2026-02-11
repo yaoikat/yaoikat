@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yaoikat&color=yellow&style=plastic&label=🐾"
+ <img src="https://komarev.com/ghpvc/?username=yaoikat&color=grey&style=plastic&label=🐾"
 </p>
  <p align="center">
   </p>
@@ -8,7 +8,7 @@
 ʚɞ
    
 <p align="center">
-  <img src="https://i.postimg.cc/cJv2cJqw/e8e2805194b6db8a4a096cec5afd3c24.jpg" width="500">
+  <img src="https://i.postimg.cc/TY282Zt9/molly-caleb-nott.png" width="500">
 </p>
 
 <p align="center">

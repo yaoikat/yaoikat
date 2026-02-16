@@ -5,13 +5,13 @@
   </p>
 
   <p align="center">
-${\textsf{\color{#786a65}ʚɞ}}$
+${\textsf{\color{#615d7c}ʚɞ}}$
    
 <p align="center">
-  <img src="https://i.postimg.cc/TY282Zt9/molly-caleb-nott.png" width="500">
+  <img src="https://i.postimg.cc/PJBb5rCP/essek.png" width="500">
 </p>
 <p align="center">
-${\textsf{\color{#786a65}ic : bottleshark}}$
+${\textsf{\color{#615d7c}ic : mortuary9}}$
 <p align="center">
   https://rentry.co/yaoikatPT 
 <p align="center">

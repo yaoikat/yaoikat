@@ -13,7 +13,7 @@ ${\textsf{\color{#615d7c}ʚɞ}}$
 <p align="center">
 ${\textsf{\color{#615d7c}ic : mortuary9}}$
 <p align="center">
-  https://rentry.co/yaoikatPT 
+  https://rentry.co/yaoikat
 <p align="center">
   https://yaoikat.straw.page/
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yaoikat&color=orange&style=plastic&label=🏹"
+ <img src="https://komarev.com/ghpvc/?username=yaoikat&color=red&style=plastic&label=🏹"
 </p>
  <p align="center">
   </p>
@@ -8,7 +8,7 @@
 ${\textsf{\color{#cd404f}ʚ We fight for honor. We fight for pride. We fight--I'm kidding, let’s go shoot at each other. ɞ}}$
    
 <p align="center">
-  <img src="https://i.postimg.cc/jdrdLpsf/sparrow.gif" width="500">
+  <img src="https://i.postimg.cc/jdrdLpsf/sparrow.gif">
 </p>
 <p align="center">
 

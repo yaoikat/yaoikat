@@ -17,7 +17,9 @@ ${\textsf{\color{#cd404f}ʚ We fight for honor. We fight for pride. We fight--I'
 <p align="center">
   https://yaoikat.straw.page/
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=d77504&bar_color_cover=false">
+  </a>
 </p>
 
 

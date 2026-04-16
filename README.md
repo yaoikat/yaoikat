@@ -8,7 +8,7 @@
 ${\textsf{\color{#cd404f}ʚ We fight for honor. We fight for pride. We fight--I'm kidding, let’s go shoot at each other. ɞ}}$
    
 <p align="center">
-  <img src="https://i.postimg.cc/tgGzfCbK/sparrow.gif">
+  <img src="https://i.postimg.cc/QMMcvBwN/sparrow.gif">
 </p>
 <p align="center">
 

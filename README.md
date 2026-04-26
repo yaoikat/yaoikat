@@ -8,7 +8,7 @@
 ${\textsf{\color{#cd404f} " We fight for honor. We fight for pride. We fight--I'm kidding, let’s go shoot at each other! " }}$
    
 <p align="center">
-  <img src="https://i.postimg.cc/QMMcvBwN/sparrow.gif">
+  <img src="https://media1.tenor.com/m/k0qHEBS-iHQAAAAC/enea-davide-guarino-sparrow.gif">
 </p>
 <p align="center">
 

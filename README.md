@@ -1,19 +1,19 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yaoikat&color=red&style=plastic&label=🏹"
+ <img src="https://komarev.com/ghpvc/?username=yaoikat&color=eb0508&style=plastic&label=👁️"
 </p>
  <p align="center">
   </p>
 
   <p align="center">
-${\textsf{\color{#cd404f} " We fight for honor. We fight for pride. We fight--I'm kidding, let’s go shoot at each other! " }}$
+${\textsf{\color{#eb0508} I know that I die gracefully in vain }}$
    
 <p align="center">
-  <img src="https://media1.tenor.com/m/k0qHEBS-iHQAAAAC/enea-davide-guarino-sparrow.gif">
+  <img src="https://64.media.tumblr.com/4a1c8cf93ccbb89e323efa305371edae/a52002f984d3916b-36/s2048x3072/f82962eae57b609f749598cefce35a9c0dab5266.jpg" width="400" height="500">
 </p>
 <p align="center">
 
 <p align="center">
-  ${\textsf{\color{#cd404f}𝄞}}$
+  ${\textsf{\color{#eb0508}I know inside deteriorates in pain}}$
 <p align="center">
    https://rentry.co/trackd
 <p align="center">

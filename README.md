@@ -15,7 +15,7 @@ ${\textsf{\color{#eb0508} I know that I die gracefully in vain }}$
 <p align="center">
   ${\textsf{\color{#eb0508}I know inside deteriorates in pain}}$
 <p align="center">
-   https://rentry.co/trackd
+   https://rentry.co/yaoikat
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=eb0508&bar_color_cover=false">

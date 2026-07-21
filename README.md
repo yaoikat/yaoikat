@@ -8,7 +8,7 @@
 ${\textsf{\color{#a55b3e} I too have a destiny, this death will be art. }}$
    
 <p align="center">
-  <img src="https://i.pinimg.com/736x/40/26/f5/4026f5338d5300a288cef8126bc3ff03.jpg" width="400" height="400">
+  <img src="https://i.postimg.cc/QsM1mXjt/ic-marroweme.png" width="600" height="751">
 </p>
 <p align="center">
 

@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-${\textsf{\color{#a55b3e} I know that I die gracefully in vain }}$
+${\textsf{\color{#a55b3e} I too have a destiny, this death will be art. }}$
    
 <p align="center">
   <img src="https://i.pinimg.com/736x/40/26/f5/4026f5338d5300a288cef8126bc3ff03.jpg" width="400" height="400">
@@ -13,7 +13,7 @@ ${\textsf{\color{#a55b3e} I know that I die gracefully in vain }}$
 <p align="center">
 
 <p align="center">
-  ${\textsf{\color{#a55b3e}I know inside deteriorates in pain}}$
+  ${\textsf{\color{#a55b3e}The people will speak of this day from near and afar. }}$
 <p align="center">
    https://rentry.co/yaoikat
 <p align="center">

@@ -15,7 +15,7 @@ ${\textsf{\color{#754b64} I too have a destiny, this death will be art. }}$
 <p align="center">
   ${\textsf{\color{#8a6b5b}The people will speak of this day from near and afar. }}$
 <p align="center">
-   https://rentry.co/yaoikat
+   https://fluffle.cc/yaoikat
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=754b64&bar_color_cover=false">

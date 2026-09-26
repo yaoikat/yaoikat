@@ -5,15 +5,9 @@
   </p>
 
   <p align="center">
-${\textsf{\color{#ff4200} I too have a destiny, this death will be art. }}$
-   
+${\textsf{\color{#ff4200} armand , kat , or adam }}$
 <p align="center">
-  <img src="https://files.catbox.moe/kplvvz.png" width="600" height="751">
-</p>
-<p align="center">
-
-<p align="center">
-  ${\textsf{\color{#ff4200}The people will speak of this day from near and afar. }}$
+  ${\textsf{\color{#ff4200} he/it only }}$
 <p align="center">
    ${\textsf{\color{#ff4200}I don't mind light inspo of my ponies, just please dont copy it 1:1. }}$
  <p align="center">

@@ -20,6 +20,7 @@ ${\textsf{\color{#ff4200} armand , kat , or adam }}$
  <p align="center">
      ${\textsf{\color{#ff4200}plsplspls sit with me, Im usually offtab but whisper me too!!! i sit on here for fun, i know its dumb to not socialize}}$
     ${\textsf{\color{#ff4200}in a social hang out game and to just sit there but thats what i like to do. but im not going to ignore you if you whisper me or sit with me !! }}$
+   <p align="center">
    ${\textsf{\color{#ff4200}i kin many characters i dont believe in "doubles". you are not me and i am not you}}$
  <p align="center">
   </a>

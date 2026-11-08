@@ -22,6 +22,7 @@ ${\textsf{\color{#ff4200} armand , kat , or adam }}$
     ${\textsf{\color{#ff4200}in a social hang out game and to just sit there but thats what i like to do. but im not going to ignore you if you whisper me or sit with me !! }}$
    <p align="center">
    ${\textsf{\color{#ff4200}i kin many characters i dont believe in "doubles". you are not me and i am not you}}$
+    ${\textsf{\color{#ff4200}"doubles" are free to interact just dont pretend were the same person its odd}}$
  <p align="center">
   </a>
 </p>

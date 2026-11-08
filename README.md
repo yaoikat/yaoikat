@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-${\textsf{\color{#ff4200} armand , kat , or adam }}$
+${\textsf{\color{#ff4200} andrei, armand , kat , or adam }}$
 <p align="center">
   ${\textsf{\color{#ff4200} he/it only }}$
 <p align="center">

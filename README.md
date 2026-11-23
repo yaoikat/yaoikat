@@ -10,6 +10,7 @@ ${\textsf{\color{#ff4200} andrei, armand , kat , or adam }}$
   ${\textsf{\color{#ff4200} he/it only }}$
 <p align="center">
    ${\textsf{\color{#ff4200}I don't mind light inspo of my ponies, just please dont copy it 1:1. }}$
+ <img src="https://64.media.tumblr.com/f98e0f3ec4ce3ab37a18018af5d1ffe4/3d9deaad34046288-12/s1280x1920/4bbda3d40933b32b0cf9a088959faf4385fa6ce7.pnj">
  <p align="center">
    https://fluffle.cc/yaoikat https://fluffle.cc/nursemand
 <p align="center">
